@@ -1,0 +1,21 @@
+Groceries is the quickest way to compose shopping lists on your iPhone and iPod touch.
+
+Just start typing – Groceries will instantly suggest the items you are looking for, and even detect amounts and units. Got a product that Groceries doesn't know yet? Just add it to your list once, and you’ll never have to type that product’s title again. Composing a shopping list is just a matter of a few taps!
+
+Features:
+- Grocery search with instant results and automatic detection of quantities and units.
+- Send shopping list files over email for import on another device.
+- Comes with a built-in range of goods.
+- Add custom items in an instant, and reuse them later.
+- Keep track of recent items.
+- Add notes to your items.
+- Maintain multiple shopping lists.
+- Customize aisles and units.
+- Move items between different aisles or shopping lists.
+- Easily reset a list to remove completed items before your next trip.
+
+
+Keywords
+Groceries,Grocery,Shopping List,ShoppingList,List,TODO,Shopper,Shopping,Supermarket,Market,Grocer
+
+

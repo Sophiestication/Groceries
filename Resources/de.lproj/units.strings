@@ -1,0 +1,73 @@
+/* 
+  units.strings
+  Groceries
+
+  Created by Sophia Teutschler on 11.10.12.
+  Copyright (c) 2012 Sophia Teutschler. All rights reserved.
+*/
+
+// quantity
+"QUANTITY_WITH_UNIT_FORMAT" = "%1$@ %2$@";
+"QUANTITY_WITH_UNITABBREVIATION_FORMAT" = "%1$@%2$@";
+"QUANTITY_FORMAT" = "%1$@";
+
+// singular
+"unit.gram.singular" = "Gramm";
+"unit.milliliter.singular" = "Milliliter";
+"unit.bottle.singular" = "Flasche";
+"unit.can.singular" = "Dose";
+"unit.pound.singular" = "Pfund";
+"unit.carton.singular" = "Karton";
+"unit.bunch.singular" = "Bund";
+"unit.slice.singular" = "Scheibe";
+"unit.packet.singular" = "Packung";
+"unit.bulb.singular" = "Knolle";
+"unit.item.singular" = "Stück";
+"unit.stem.singular" = "Stange";
+"unit.tube.singular" = "Tube";
+"unit.bar.singular" = "Riegel";
+"unit.liter.singular" = "Liter";
+"unit.milligram.singular" = "Milligramm";
+"unit.meter.singular" = "Meter";
+"unit.centimeter.singular" = "Zentimeter";
+"unit.millimeter.singular" = "Millimeter";
+"unit.kilogram.singular" = "Kilogramm";
+"unit.cup.singular" = "Becher";
+"unit.serving.singular" = "Portion";
+"unit.box.singular" = "Kasten";
+"unit.jar.singular" = "Glas";
+"unit.pack.singular" = "Päckchen";
+"unit.bag.singular" = "Beutel";
+
+// plural
+"unit.bottle.plural" = "Flaschen";
+"unit.can.plural" = "Dosen";
+"unit.carton.plural" = "Kartons";
+"unit.bunch.plural" = "Bünde";
+"unit.slice.plural" = "Scheiben";
+"unit.packet.plural" = "Packungen";
+"unit.bulb.plural" = "Knollen";
+"unit.stem.plural" = "Stangen";
+"unit.tube.plural" = "Tuben";
+"unit.serving.plural" = "Portionen";
+"unit.box.plural" = "Kästen";
+"unit.jar.plural" = "Gläser";
+"unit.pack.plural" = "Päckchen";
+
+// abbreviation
+"unit.bottle.abbreviation" = "Fl.";
+"unit.gram.abbreviation" = "g";
+"unit.milliliter.abbreviation" = "ml";
+"unit.pound.abbreviation" = "Pf.";
+"unit.carton.abbreviation" = "Kt.";
+"unit.bunch.abbreviation" = "Bd.";
+"unit.packet.abbreviation" = "Pk.";
+"unit.bulb.abbreviation" = "Kn.";
+"unit.stem.abbreviation" = "Stg";
+"unit.liter.abbreviation" = "l";
+"unit.milligram.abbreviation" = "mg";
+"unit.meter.abbreviation" = "m";
+"unit.centimeter.abbreviation" = "cm";
+"unit.millimeter.abbreviation" = "mm";
+"unit.kilogram.abbreviation" = "kg";
+"unit.jar.abbreviation" = "Gl.";

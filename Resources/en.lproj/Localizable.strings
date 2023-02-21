@@ -1,0 +1,103 @@
+/* 
+   Localizable.strings
+   Groceries
+
+   Created by Sophia Teutschler on 10.03.08.
+   Copyright 2008 Sophiestication Software. All rights reserved.
+ */
+ 
+"DONE_BUTTONITEM" = "Done";
+"CANCEL_BUTTONITEM" = "Cancel";
+
+"COPY_BUTTONITEM" = "Copy";
+"MOVE_BUTTONITEM" = "Move";
+
+"CLEAR_BUTTONITEM" = "Clear";
+"SELECTALL_BUTTONITEM" = "All";
+"DESELECTALL_BUTTONITEM" = "None";
+
+"NEWAISLE_BUTTONITEM" = "New Aisle";
+
+"TRASH_BUTTONITEM" = "Delete";
+"TRASH_WITHCOUNT_BUTTONITEM" = "Delete (%1$@)";
+
+"ORGANIZE_BUTTONITEM" = "Move";
+"ORGANIZE_WITHCOUNT_BUTTONITEM" = "Move (%1$@)";
+
+"STARTOVER_BUTTONITEM" = "Start Over";
+
+"NEW_UNIT_BUTTONITEM" = "New Unit";
+
+"DELETE_GROCERY_BUTTONITEM" = "Delete Grocery";
+
+"SHEETTITLE_RESTART_SHOPPING" = "How would you like to start over?";
+"SHEETBUTTON_UNCHECK_SHOPPINGLIST_ITEMS" = "Uncheck All Items";
+"SHEETBUTTON_DELETE_CHECKED_SHOPPINGLIST_ITEMS" = "Delete Checked Items";
+
+"PROPERTY_LABEL_NAME" = "Name";
+"PROPERTY_LABEL_PLURAL_NAME" = "Name (Plural Form)";
+"PROPERTY_LABEL_NOTE" = "Notes";
+"PROPERTY_LABEL_QUANTITY" = "Quantity";
+"PROPERTY_LABEL_UNIT" = "Unit";
+"PROPERTY_LABEL_AISLE" = "Aisle";
+"PROPERTY_LABEL_ABBREVIATION" = "Abbreviation";
+
+"NEW_SHOPPINGLIST_TITLE" = "Groceries";
+
+"VIEWSTYLE_ALL" = "All Items";
+"VIEWSTYLE_REMAINING" = "Remaining Items";
+
+"LISTS_NAVIGATIONITEM_TITLE" = "Shopping Lists";
+"LISTS_NAVIGATIONITEM_SHORTTITLE" = "Lists";
+
+"NEW_GROCERY_NAVIGATIONITEM_TITLE" = "New Item";
+"NEW_UNIT_NAVIGATIONITEM_TITLE" = "New Unit";
+"NEW_AISLE_NAVIGATIONITEM_TITLE" = "New Aisle";
+
+"EDITING_NAVIGATIONITEM_TITLE" = "Edit";
+
+"SHOPPINGLIST_ORGANIZER_NAVIGATIONITEM_PROMPT_SINGULAR" = "Move %1$@ to a different shopping list.";
+"SHOPPINGLIST_ORGANIZER_NAVIGATIONITEM_PROMPT" = "Move %1$@ items to a different shopping list.";
+"SHOPPINGLIST_ORGANIZER_AISLE_NAVIGATIONITEM_PROMPT_SINGULAR" = "Move %1$@ to a different aisle.";
+"SHOPPINGLIST_ORGANIZER_AISLE_NAVIGATIONITEM_PROMPT" = "Move %1$@ items to a different aisle.";
+
+"SHOPPINGLIST_ORGANIZER_NEW_SHOPPINGLIST" = "New Shopping List…";
+
+"AISLE_NAVIGATIONITEM_TITLE" = "Aisle";
+"UNSPECIFIED_AISLE_TITLE" = "No Aisle";
+
+"ORGANIZE_AISLES_TITLE" = "Supermarket Layout";
+
+"GROCERYPICKER_NAVIGATIONITEM_TITLE" = "Add Items";
+"GROCERYSEARCH_SEARCHFIELD_PLACEHOLDER" = "5 Zucchini";
+
+"GROCERYSEARCH_NOSEARCHRESULTS_PLACEHOLDER" = "No Results";
+
+"AISLEIMAGE_PICKER_NAVIGATIONITEM_PROMPT" = "Choose an aisle image";
+
+"PLACEHOLDERVIEW_TUTORIAL_TEXT" = "Tap here to start…";
+"PLACEHOLDERVIEW_DONESHOPPING_TEXT" = "You're done shopping!";
+
+"LOCAL_EVENTSTORE_TITLE_FORMAT" = "On my %1$@";
+
+"DELETE_GROCERY_PROMPT" = "Would you like to delete %1$@ from your %2$@?";
+
+// "FINDBYBARCODE_NAVIGATIONITEM_TITLE" = "Find by Barcode";
+
+// "LINKWITHBARCODE_NAVIGATIONITEM_PROMPT" = "Scan a Barcode to link with %1$@.";
+// "LINKWITHBARCODE_NAVIGATIONITEM_TITLE" = "Link with Barcode";
+
+// "AUTHORIZATIONSTATUS_DENIED_LABEL" = "Cannot access Reminders";
+// "AUTHORIZATIONSTATUS_DENIED_DETAILLABEL" = "You must grant access to Reminders in the System Settings in order to use Groceries.";
+
+"RECENTLYADDED_SECTIONHEADER_TITLE" = "Recently Added";
+
+"accessibility.label.clear" = "Clear";
+"accessibility.label.decimalSeparator" = "Decimal Separator";
+"accessibility.label.deleteBackward" = "Delete";
+
+// "SYNCOVERMAIL_ACTIVITYTITLE" = "Mail Exchange";
+// "SYNCOVERMAIL_MESSAGE_BODYTEXT" = "Open the following attachment in your Groceries app to update your shopping list:";
+
+// Sophiestication User Interface
+"com.sophiestication.activity.giftApplication.title" = "Gift";

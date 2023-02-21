@@ -1,0 +1,108 @@
+Groceries
+
+Groceries macht Schluss mit der üblichen Einkaufsroutine, räumt auf mit chaotischen Einkaufszetteln und Vorurteilen gegenüber ineffizienten und unbrauchbaren elektronischen Einkaufsplanern. Wähle aus tausenden von fertigen Waren, aus zehntausenden von Markenartikeln oder erstelle dir im Handumdrehen einfach deine eigenen. Organisiere deine Artikel und damit deinen Einkauf nach Abteilungen und Warengruppen und lass dich durch den täglichen Einkaufs-Dschungel navigieren. Teile deine Listen mit Familie und Freunden. Was immer du benötigst, egal in welcher Menge und Einheit: Groceries verwaltet das, was eben auf einen Einkaufszettel gehört und ergänzt es um Funktionen, die auch wirklich Sinn und Spaß machen.
+
+Während dem Einkauf begleitet dich diese Applikation zielsicher - nimmt deine gekauften Artikel per Fingertip aus der Liste und zeigt dir, was auf dem Weg zur Kasse noch in den Einkaufskorb gehört. Ohne Umwege, individuell an deine Bedürfnisse angepasst.
+
+
+FEATURES
+
+– Die Datenbank kennt bereits tausende von generischen Waren und zehntausende von Markenartikeln ...
+– ... und wenn eimal nicht, dann erstellst du sie ohne Umwege und im Handumdrehen einfach selbst
+– Schnellzugriff auf Artikel per Suchindex oder über den bequemen Artikel-Browser
+– Lass dich doch von Groceries inspirieren, denn die Applikation trennt nach Wunsch zwischen üblichen, geläufigen Waren und Markenartikeln. Über den nach Warengruppen untergliederten Browser kann dann ganz intuitiv und selektiv gestöbert werden. Somit wird auch wirklich nichts mehr vergessen.
+– Häufig gekaufte Artikel können auch in einer Favoritenliste abgelegt oder aus dem bisherigen Verlauf selektiert werden
+– Verwaltet unzählige Einkaufslisten - für jeden Supermarkt, der vor dir liegt
+– Organisiere - wenn gewünscht - die Produkte nach vordefinierten oder selbsterstellten Warengruppen und spare dir unnötige Wege im Laden.
+– Verschiebe die Waren bei Bedarf in andere Warengruppen oder Einkaufslisten.
+– Sortiere die Warengruppen nach tatsächlicher Aufteilung in deinen besuchten Supermärkten und deinen individuellen Laufwegen.
+– Natürlich wird die Eingabe von Mengen, Einheiten und Notizen unterstützt ...
+– ... wobei übliche Einheiten, Mengen und Notizen sich selbstverständlich auch für jeden einzelnen Artikel voreinstellen lassen und sinnvollerweise die üblichen Einheiten auch bereits voreingestellt sind.
+– Importiere und Exportiere deine Listen per Email.
+– Komplett lokalisiert für Deutsch und Englisch - Natürlich auch separat für Artikeldatenbank UND Menüsprache einstellbar.
+– und das alles, das versteht sich, intuitiv und elegant in einem wunderschönen Interface
+
+
+REVIEWS
+
+"Eine prima umgesetzte App, die einem hilft, die leidige Zettelwirtschaft für den nächsten Einkauf zu beenden." (★★★★★)
+- Apps & Co
+
+"Testsieger ist eindeutig Einkäufe, da es am vielseitigsten ist und keine Lücken in der Lokalisierung besitzt." (★★★★☆)
+- AppStoreBIBEL
+
+"Groceries is fast, starting almost immediately and pulling up search results instantaneously. It is also very simple; crossing off items just requires a tap for Groceries to remove it from the list. While simple to use, it still offers a lot of functionality." (★★★★☆)
+- Kyle Baxter, Macworld
+
+"Groceries is a shopping list app that leans in the simple direction but chooses its features wisely. The process of making a list within its interface is familiar in seconds." (★★★★★)
+- Billy Miller, 148apps.com
+
+
+Folgen Sie uns auf Twitter: http://twitter.com/sophiestication
+
+
+
+Keywords
+Groceries,Einkäufe,Einkaufszettel,Einkaufsliste,Shopping List,ShoppingList,TODO,Shopper,G,E
+
+
+
+Neues in 2.2.2
+– Ein Absturz beim anzeigen der eingehende Anrufe Statusleiste wurde behoben
+
+Neues in 2.2
+– Vollständig kompatibel mit iOS 4
+– Anpassungen an das Retina Display
+– Multitasking und Fast App Switching werden nun unterstützt
+
+Neues in 2.1.3
+– Die Favoritenauswahl funktioniert nun wieder korrekt
+
+Neues in 2.1.2
+– Verbesserte iPhone OS Kompatibilität
+
+Neues in 2.1.1
+- Ein Fehler beim öffnen von Einkaufslisten in der Mail App wurde behoben
+- In der Einkaufslistenansicht wurden zwei Layout und Grafikfehler  behoben
+
+Neues in 2.1
+- Emails werden nun direkt in der App versendet.
+- Der Suchtext wird nun automatisch beim auswählen eines Artikels selektiert.
+- Das erstellen neuer Abteilungen ist nun offensichtlicher.
+- Groceries benötigt iPhone OS 3.1 oder neuer.
+
+Neues in Version 2.0.5
+- Die "Neue Menge hinzufügen" Schaltfläche ist nun immer sichtbar
+- Kleinere Fehlerkorrekturen
+
+Neues in Version 2.0.4
+- Fehlerkorrekturen beim importieren aus E-Mails
+- Fehler bei der Darstellung der Tastatur behoben
+- Kleinere Darstellungsfehler wurden behoben
+
+Neues in Version 2.0.3
+- Die Einkaufslisten Email zeigt nun auch die bereits gekauften Artikel an
+- Kleinere Anzeigenfehler wurden behoben
+- Kompatibel mit iPhone OS 3.0
+
+Neues in Version 2.0.2
+- Die Anzahl der fehlenden Artikel wird nun für jede Einkaufsliste angezeigt
+- Fehler beim speichern von Abteilungen wurde behoben
+- Die Supermarkt-Aufteilung wird nun korrekt gespeichert
+- Text in der Artikelleiste lässt sich nun einfacher zurücksetzen
+- Kleinere Anzeigenfehler wurden behoben
+
+Neues in Version 2.0.1
+- Groceries stürzt nun nicht mehr beim aktualisieren von Version 1.0 ab
+- Viele kleinere Darstellungsfehler wurden behoben
+
+Neues in Version 2.0:
+- Teile deine Listen über Email mit Freunden
+- Importiere Listen, die du per Email zugestellt bekommst
+- Warengruppen sind nun vollständig individualisierbar
+- Erstelle eigenen Einheiten
+- Individuelle Aufteilung für einzelne Supermärkte
+- Flexible Optionen für die Fingergesten-Steuerung
+- Optionales Erinnerungs-Fähnchen am Symbol
+- Aufpoliertes Benutzerinferace
+- Viele kleinere Verbesserungen

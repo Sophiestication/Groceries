@@ -1,0 +1,135 @@
+Groceries is the quickest way to compose shopping lists on your iPhone and iPod touch.
+
+Just start typing – Groceries will instantly suggest the items you are looking for, and even detect amounts and units. Got a product that Groceries doesn't know yet? Just add it to your list once, and you’ll never have to type that product’s title again. Composing a shopping list is just a matter of a few taps!
+
+"Groceries is fast, starting almost immediately and pulling up search results instantaneously. It is also very simple; crossing off items just requires a tap for Groceries to remove it from the list. While simple to use, it still offers a lot of functionality." –Kyle Baxter, Macworld
+
+"Groceries is a shopping list app that leans in the simple direction but chooses its features wisely. The process of making a list within its interface is familiar in seconds." –Billy Miller, 148apps.com
+
+"It’s obvious that time and thought went into the application UI and how it should work." –Jeff Smykil, Ars Technica
+
+"Groceries has a beautiful look and feel, and a slew of convenient features." –John Gruber, Daring Fireball
+
+Features:
+- Grocery search with instant results and automatic detection of quantities and units.
+- Send shopping list files over email for import on another device.
+- Comes with a built-in range of goods.
+- Add custom items in an instant, and reuse them later.
+- Keep track of recent items.
+- Add notes to your items.
+- Maintain multiple shopping lists.
+- Customize aisles and units.
+- Move items between different aisles or shopping lists.
+- Easily reset a list to remove completed items before your next shop.
+- The interface is beautiful and fun to use.
+
+
+Keywords
+Groceries,Grocery,Shopping List,ShoppingList,List,TODO,Shopper,Shopping,Supermarket,Market,Grocer
+
+
+Groceries 3.1.2
+- You can now copy items between different shopping lists.
+- Minor stability improvements.
+❤ If you like Groceries, please consider leaving a review. That helps us a lot. Thanks!
+
+Groceries 3.1.1
+- Tweaked the autocompletion ranking.
+- Fixed a critical issue where Groceries could not update the grocery store.
+- Fixed a possible crash when inserting new products.
+- Fixed an issue with diacritics when autocompletion items.
+⚠ The first start of Groceries might take a little while. Following starts will be as quick as usual.
+❤ If you like Groceries, please consider leaving a review. That helps us a lot. Thanks!
+
+Groceries 3.1
+- Optional item remainder badge on the home screen icon.
+- Reorder shopping lists.
+- The recently added items section is now ordered by grocery title.
+- Recently added items are now ordered to the top of autocompletion results.
+- The grocery picker now displays if an item is completed.
+- Improved autocompletion of quantities and units.
+- Fixed an issue where Groceries would not autocomplete items with Cyrillic titles and Emojis.
+- Smaller tweaks and fixes.
+❤ If you like Groceries, please consider leaving a review. That helps us a lot. Thanks!
+
+Groceries 3.0.1
+- Added a remaining items badge to the shopping list picker.
+- Added the "Swipe to Delete" gesture to the shopping list.
+- Fixed an display issue when deleting aisles.
+- Fixed an issue when adding custom items.
+
+Groceries 3.0
+- The app has been rebuilt from scratch – sporting a fresh and more efficient user interface.
+- Groceries now supports the taller iPhone 5 display.
+- The grocery search now uses Smart Data Detectors to recognize amounts and units for composing lists even quicker.
+- Improved shopping list sharing and merging over email.
+- Additional sharing and printing options.
+- New French localization.
+⚠ Groceries now requires iOS 6.0 or later.
+❤ If you like Groceries, please consider leaving a review. That helps us a lot. Thanks!
+
+Groceries 2.2.2
+- Fixed layout and crashing issues when activating the In-Call status bar
+
+Groceries 2.2
+- Fully compatible with iOS 4
+- Support for the Retina Display
+- Support for Multitasking and Fast App Switching
+
+Groceries 2.1.3
+- Picking a favorite or recent item now works correctly again
+
+Groceries 2.1.2
+- iPhone OS compatibility fixes
+
+Groceries 2.1.1
+- Fixed an issue where Mail did not open shopping lists in Groceries.
+- Fixed two layout and display glitches in the shopping list view.
+
+Groceries 2.1
+- You can now send Emails directly within Groceries.
+- Picking an item in the grocery search will now select the current search text. There's no longer the need to explicitly tap the clear button.
+- Creating new aisles is now more obvious.
+- Groceries now requires iPhone OS 3.1 or later.
+
+Groceries 2.0.5
+- The "new quantity" button is now always visible
+- Fixed minor issues and bugs
+- Fixed display glitches
+
+Groceries 2.0.4
+- Fixed an issue when importing shopping lists from email
+- Fixed a bug where the keyboard did not show up
+- Fixed minor display glitches
+
+Groceries 2.0.3
+- Shopping list mails now also display checked items
+- Fixed minor display issues in the shopping list mail
+- Fixed an issue where the History was not updated
+- Corrected grammar mistakes
+- Fixed iPhone OS 3.0 related issues
+
+Groceries 2.0.2
+- The shopping list collection now displays a remaining items badge
+- Custom aisles are now correctly saved in every case
+- Fixed a bug where the supermarket layout was not saved
+- The clear button in the grocery search is now easier to tap
+- Added two incredible grocery items: Bacon and Toilet Paper
+- Minor corrections
+
+Groceries 2.0.1
+- Fixed a critical bug when upgrading from Groceries Version 1.0
+- Lots of smaller fixes and refinements
+
+Groceries 2.0:
+- Share shopping list through email…
+- …and re-import directly from that email
+- Customizable aisles
+- Customizable units
+- Distinctive supermarket layouts for each list
+- Quickly start over by reseting or deleting purchased items
+- Shopping List organizer can now create new lists on the fly
+- Customizable shortcuts on double or triple tapping a shopping list item
+- Optional item remainder badge on the home screen icon
+- You can now turn off automatic aisle grouping
+- Quicker and easier user interface

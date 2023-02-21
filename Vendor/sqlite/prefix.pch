@@ -1,0 +1,12 @@
+//
+//  prefix.pch
+//  sqlite
+//
+//  Created by Sophia Teutschler on 15.03.13.
+//  Copyright (c) 2013 Sophia Teutschler. All rights reserved.
+//
+
+#define SQLITE_ENABLE_FTS4
+#define SQLITE_ENABLE_FTS3_PARENTHESIS
+#define SQLITE_ENABLE_FTS4_UNICODE61
+// #define SQLITE_ENABLE_ICU

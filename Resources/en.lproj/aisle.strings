@@ -1,0 +1,33 @@
+/* 
+  aisle.strings
+  Groceries
+
+  Created by Sophia Teutschler on 09.10.12.
+  Copyright (c) 2012 Sophia Teutschler. All rights reserved.
+*/
+
+"aisle.produce" = "Produce";
+"aisle.bread-and-bakery" = "Bread & Bakery";
+"aisle.meat" = "Meat";
+"aisle.seafood" = "Seafood";
+"aisle.dairy" = "Dairy";
+"aisle.frozen" = "Frozen Foods";
+"aisle.oils-and-dressings" = "Oils & Dressings";
+"aisle.sauces-and-spices" = "Sauces & Spices";
+"aisle.pasta-and-sidedishes" = "Pasta & Side Dishes";
+"aisle.prepared-meals" = "Prepared Meals";
+"aisle.canned-goods" = "Canned Goods";
+"aisle.baking-goods" = "Baking Goods";
+"aisle.breakfast-foods" = "Breakfast Foods";
+"aisle.deli" = "Deli";
+"aisle.organic-foods" = "Organic Foods";
+"aisle.world-cuisine" = "World Cuisine";
+"aisle.snacks" = "Snacks";
+"aisle.health-and-beauty" = "Health & Beauty";
+"aisle.infant-and-childcare" = "Infant & Childcare";
+"aisle.cleaningsupplies" = "Cleaning Supplies";
+"aisle.home-and-garden" = "Home & Garden";
+"aisle.officesupplies" = "Office Supplies";
+"aisle.entertainingcenter" = "Entertaining Center";
+"aisle.beverages" = "Beverages";
+"aisle.petstore" = "Pet Store";

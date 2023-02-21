@@ -1,0 +1,21 @@
+Mit Einkäufe (Groceries) erstellen Sie Einkaufslisten für den Wochen- oder Supermarkt im Handumdrehen.
+
+Starten Sie einfach mit der Eingabe - Einkäufe schlägt direkt die Produkte vor nach denen Sie suchen, sogar Mengenangaben und Einheiten werden automatisch erkannt!
+
+Features:
+- Ausgefeillte Produktvervollständigung mit automatischer Erkennung von Mengen und Einheiten.
+- Verschicken Sie Listen per Email um diese auf anderen Geräten in "Einkäufe" zu öffen.
+- Die Datenbank kennt bereits tausende von generischen Waren.
+- Fügen Sie neue Artikel, bei bedarf, einmalig und im Handumdrehen hinzu.
+- Schneller Zugriff auf zuletzt verwendete Produkte.
+- Eigene Notizen für jeden Artikel.
+- Verwalten Sie meherer Einkaufslisten.
+- Passen Sie Abteilungen und Einheiten nach belieben an.
+- Verschieben Sie die Waren bei Bedarf in andere Abteilungen oder Einkaufslisten.
+- Wiederverwenden Sie Listen für ihren nächsten Einkauf.
+
+
+Keywords
+Groceries,Einkaufsliste,Grocery,Shopping List,Shopping,Liste,Einkaufszettel,Einkauf,Markt,Einkaufen
+
+

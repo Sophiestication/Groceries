@@ -1,0 +1,19 @@
+Courses (Groceries) est la solution la plus rapide pour établir des listes de courses sur votre iPhone et iPod touch.
+
+Commencez simplement à taper et Groceries vous propose instantanément les articles que vous cherchez. L'application détecte même les quantités et unités ! Vous avez un produit que Groceries ne connaît pas encore ? Ajoutez-le à votre liste et vous n'aurez plus jamais à saisir son nom ! Préparer une liste de courses n'est qu'une question de quelques touchers, du bout des doigts.
+
+Fonctionnalités :
+- Recherche dans l'épicerie avec résultats instantanés et détection automatique des quantités et unités.
+- Envoi des listes de courses via courriel pour importation sur un autre appareil.
+- Ajout d'articles personnalisés en un instant et réutilisation future.
+- Suivi des articles récents.
+- Ajout de notes aux articles.
+- Gestion de plusieurs listes de courses.
+- Rayons et unités personnalisables.
+- Copie et déplacement des articles entre les rayons ou listes.
+- Reprise facile des listes pour d'autres courses avec suppression des articles déjà achetés.
+
+
+Courses,Provisions,Épicerie,Liste des courses,Liste,À faire,Client,Acheter,Achats,Supermarché,Marché,Groceries
+
+

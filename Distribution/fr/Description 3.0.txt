@@ -1,0 +1,38 @@
+//AS text
+Courses (Groceries) est la solution la plus rapide pour établir des listes de courses sur votre iPhone et iPod touch.
+
+Commencez simplement à taper et Groceries vous propose instantanément les articles que vous cherchez. L'application détecte même les quantités et unités ! Vous avez un produit que Groceries ne connaît pas encore ? Ajoutez-le à votre liste et vous n'aurez plus jamais à saisir son nom ! Préparer une liste de courses n'est qu'une question de quelques touchers, du bout des doigts.
+
+« Groceries est rapide, avec un démarrage pratiquement immédiat et des résultats de recherche instantanés. Le concept est très simple ; toucher un article suffit à le rayer et Groceries le retire de la liste. Facile à utiliser, l'application propose quand même de nombreuses fonctionnalités. » – Kyle Baxter, Macworld
+
+« Groceries est une application de liste de courses qui penche pour la simplicité tout en proposant un choix de fonctions judicieux. Faire une liste avec son interface est tout de suite facile. » – Billy Miller, 148apps.com
+
+« Il n'y a pas l'ombre d'un doute que l'interface de l'application et son fonctionnement ont bénéficié de temps et de réflexion. » – Jeff Smykil, Ars Technica
+
+« L'aspect et la convivialité de Groceries sont extraordinaires et l'application bénéficie d'un tas de fonctionnalités pratiques. » – John Gruber, Daring Fireball
+
+Fonctionnalités :
+- Recherche dans l'épicerie avec résultats instantanés et détection automatique des quantités et unités.
+- Envoi des listes de courses via courriel pour importation sur un autre appareil.
+- Ajout d'articles personnalisés en un instant et réutilisation future.
+- Suivi des articles récents.
+- Ajout de notes aux articles.
+- Gestion de plusieurs listes de courses.
+- Rayons et unités personnalisables.
+- Copie et déplacement des articles entre les rayons ou listes.
+- Reprise facile des listes pour d'autres courses avec suppression des articles déjà achetés.
+- Superbe interface sympa à utiliser.
+
+
+// Keywords
+Courses,Provisions,Épicerie,Liste des courses,Liste,À faire,Client,Acheter,Achats,Supermarché,Marché,Groceries
+
+// Release notes
+Groceries 3.0
+- Application reconstruite de A à Z : interface utilisateur neuve et plus efficace, optimisée pour l'écran de l'iPhone 5.
+- Recherche dans l'épicerie avec détecteurs de données intelligents pour reconnaître les quantités et unités et pour établir des listes encore plus vite.
+- Amélioration du partage et de la fusion de listes de courses via courriel.
+- Options supplémentaires de partage et d'impression.
+- Nouvelle localisation en français.
+⚠ Groceries nécessite iOS 6.0 ou ultérieur.
+❤ Si vous aimez Groceries, pensez à nous donner votre avis. Cela nous aide énormément. Merci !

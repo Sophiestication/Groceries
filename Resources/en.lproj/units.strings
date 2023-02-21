@@ -1,0 +1,132 @@
+/* 
+  units.strings
+  Groceries
+
+  Created by Sophia Teutschler on 11.10.12.
+  Copyright (c) 2012 Sophia Teutschler. All rights reserved.
+*/
+
+// quantity
+"QUANTITY_WITH_UNIT_FORMAT" = "%1$@ %2$@";
+"QUANTITY_WITH_UNITABBREVIATION_FORMAT" = "%1$@%2$@";
+"QUANTITY_FORMAT" = "%1$@";
+
+// singular
+"unit.gram.singular" = "Gram";
+"unit.milliliter.singular" = "Milliliter";
+"unit.bottle.singular" = "Bottle";
+"unit.can.singular" = "Can";
+"unit.yard.singular" = "Yard";
+"unit.pint.singular" = "Pint";
+"unit.pound.singular" = "Pound";
+"unit.quart.singular" = "Quart";
+"unit.carton.singular" = "Carton";
+"unit.bunch.singular" = "Bunch";
+"unit.slice.singular" = "Slice";
+"unit.packet.singular" = "Packet";
+"unit.bulb.singular" = "Bulb";
+"unit.item.singular" = "Item";
+"unit.stem.singular" = "Stem";
+"unit.tube.singular" = "Tube";
+"unit.ounce.singular" = "Ounce";
+"unit.grain.singular" = "Grain";
+"unit.bar.singular" = "Bar";
+"unit.barrel.singular" = "Barrel";
+"unit.gallon.singular" = "Gallon";
+"unit.centiliter.singular" = "Centiliter";
+"unit.fluid-ounce.singular" = "Fluid Ounce";
+"unit.inch.singular" = "Inch";
+"unit.foot.singular" = "Foot";
+"unit.liter.singular" = "Liter";
+"unit.milligram.singular" = "Milligram";
+"unit.meter.singular" = "Meter";
+"unit.centimeter.singular" = "Centimeter";
+"unit.millimeter.singular" = "Millimeter";
+"unit.kilogram.singular" = "Kilogram";
+"unit.cup.singular" = "Cup";
+"unit.serving.singular" = "Serving";
+"unit.box.singular" = "Box";
+"unit.jar.singular" = "Jar";
+"unit.pack.singular" = "Pack";
+"unit.bag.singular" = "Bag";
+"unit.canister.singular" = "Canister";
+
+// plural
+"unit.gram.plural" = "Grams";
+"unit.milliliter.plural" = "Milliliters";
+"unit.bottle.plural" = "Bottles";
+"unit.can.plural" = "Cans";
+"unit.yard.plural" = "Yards";
+"unit.pint.plural" = "Pints";
+"unit.pound.plural" = "Pounds";
+"unit.quart.plural" = "Quarts";
+"unit.carton.plural" = "Cartons";
+"unit.bunch.plural" = "Bunches";
+"unit.slice.plural" = "Slices";
+"unit.packet.plural" = "Packets";
+"unit.bulb.plural" = "Bulbs";
+"unit.item.plural" = "Items";
+"unit.stem.plural" = "Stems";
+"unit.tube.plural" = "Tubes";
+"unit.ounce.plural" = "Ounces";
+"unit.grain.plural" = "Grains";
+"unit.bar.plural" = "Bars";
+"unit.barrel.plural" = "Barrels";
+"unit.gallon.plural" = "Gallons";
+"unit.centiliter.plural" = "Centiliters";
+"unit.fluid-ounce.plural" = "Fluid Ounces";
+"unit.inch.plural" = "Inches";
+"unit.foot.plural" = "Feet";
+"unit.liter.plural" = "Liters";
+"unit.milligram.plural" = "Milligrams";
+"unit.meter.plural" = "Meters";
+"unit.centimeter.plural" = "Centimeters";
+"unit.millimeter.plural" = "Millimeters";
+"unit.kilogram.plural" = "Kilograms";
+"unit.cup.plural" = "Cups";
+"unit.serving.plural" = "Servings";
+"unit.box.plural" = "Boxes";
+"unit.jar.plural" = "Jars";
+"unit.pack.plural" = "Packs";
+"unit.bag.plural" = "Bags";
+"unit.canister.plural" = "Canisters";
+
+// abbreviation
+"unit.gram.abbreviation" = "g";
+"unit.milliliter.abbreviation" = "ml";
+// "unit.bottle.abbreviation" = "bottle";
+"unit.can.abbreviation" = "cn";
+"unit.yard.abbreviation" = "yd";
+"unit.pint.abbreviation" = "pt";
+"unit.pound.abbreviation" = "lb";
+"unit.quart.abbreviation" = "qt";
+"unit.carton.abbreviation" = "ct";
+"unit.bunch.abbreviation" = "bn";
+"unit.slice.abbreviation" = "sl";
+"unit.packet.abbreviation" = "pk";
+// "unit.bulb.abbreviation" = "bulb";
+// "unit.item.abbreviation" = "item";
+// "unit.stem.abbreviation" = "stem";
+// "unit.tube.abbreviation" = "tube";
+"unit.ounce.abbreviation" = "oz";
+"unit.grain.abbreviation" = "gr";
+"unit.bar.abbreviation" = "bar";
+"unit.barrel.abbreviation" = "bbl";
+"unit.gallon.abbreviation" = "gal";
+"unit.centiliter.abbreviation" = "cl";
+"unit.fluid-ounce.abbreviation" = "fl.oz";
+"unit.inch.abbreviation" = "in";
+"unit.foot.abbreviation" = "ft";
+"unit.liter.abbreviation" = "l";
+"unit.milligram.abbreviation" = "mg";
+"unit.meter.abbreviation" = "m";
+"unit.centimeter.abbreviation" = "cm";
+"unit.millimeter.abbreviation" = "mm";
+"unit.kilogram.abbreviation" = "kg";
+// "unit.cup.abbreviation" = "cup";
+"unit.serving.abbreviation" = "serv.";
+// "unit.box.abbreviation" = "box";
+// "unit.jar.abbreviation" = "jar";
+"unit.pack.abbreviation" = "ct";
+// "unit.bag.abbreviation" = "bag";
+// "unit.canister.abbreviation" = "canister";

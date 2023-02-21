@@ -1,0 +1,137 @@
+Mit Einkäufe (Groceries) erstellen Sie Einkaufslisten für den Wochen- oder Supermarkt im Handumdrehen.
+
+Starten Sie einfach mit der Eingabe - Einkäufe schlägt direkt die Produkte vor nach denen Sie suchen, sogar Mengenangaben und Einheiten werden automatisch erkannt!
+
+"Eine prima umgesetzte App, die einem hilft, die leidige Zettelwirtschaft für den nächsten Einkauf zu beenden." –Apps & Co
+
+"Testsieger ist eindeutig Einkäufe, da es am vielseitigsten ist und keine Lücken in der Lokalisierung besitzt." –AppStoreBIBEL
+
+"Groceries has a beautiful look and feel, and a slew of convenient features." –John Gruber, Daring Fireball
+
+"Groceries is fast, starting almost immediately and pulling up search results instantaneously. It is also very simple; crossing off items just requires a tap for Groceries to remove it from the list. While simple to use, it still offers a lot of functionality." –Kyle Baxter, Macworld
+
+"It’s obvious that time and thought went into the application UI and how it should work." –Jeff Smykil, Ars Technica
+
+"Groceries is a shopping list app that leans in the simple direction but chooses its features wisely. The process of making a list within its interface is familiar in seconds." –Billy Miller, 148apps.com
+
+Features:
+- Ausgefeillte Produktvervollständigung mit automatischer Erkennung von Mengen und Einheiten.
+- Verschicken Sie Listen per Email um diese auf anderen Geräten in "Einkäufe" zu öffen.
+- Die Datenbank kennt bereits tausende von generischen Waren.
+- Fügen Sie neue Artikel, bei bedarf, einmalig und im Handumdrehen hinzu.
+- Schneller Zugriff auf zuletzt verwendete Produkte.
+- Eigene Notizen für jeden Artikel.
+- Verwalten Sie meherer Einkaufslisten.
+- Passen Sie Abteilungen und Einheiten nach belieben an.
+- Verschieben Sie die Waren bei Bedarf in andere Abteilungen oder Einkaufslisten.
+- Wiederverwenden Sie Listen für ihren nächsten Einkauf.
+- Die App ist wunderschön und mach Spass!
+
+
+Keywords
+Groceries,Einkaufsliste,Grocery,Shopping List,Shopping,Liste,Einkaufszettel,Einkauf,Markt,Einkaufen
+
+
+Groceries 3.1.2
+- Das Kopieren von Einträgen zwischen Einkaufslisten ist nun wieder möglich.
+- Kleinere Stabilitätsverbesserungen.
+❤ Wenn dir Einkäufe gefällt, dann bewerte es bitte bei jedem Update. Vielen Dank!
+
+Groceries 3.1.1
+- Die Autovervollständigung liefert nun bessere Ergebnisse.
+- Ein kritischer Fehler beim aktualisieren der Produktdatenbank wurde behoben.
+- Ein möglicher Absturz beim Hinzufügen von neuen Produkten wurde behoben.
+- Ein Fehler mit Umlauten in der Autovervollständigung wurde behoben.
+⚠ Der erste Start nach dem Update kann etwas länger als gewöhnlich dauern.
+❤ Wenn dir Einkäufe gefällt, dann bewerte es bitte bei jedem Update. Vielen Dank!
+
+Groceries 3.1
+- Optional item remainder badge on the home screen icon.
+- Reorder shopping lists.
+- The recently added items section is now ordered by grocery title.
+- Recently added items are now ordered to the top of autocompletion results.
+- The grocery picker now displays if an item is completed.
+- Improved autocompletion of quantities and units.
+- Fixed an issue where Groceries would not autocomplete items with Cyrillic titles and Emojis.
+- Smaller tweaks and fixes.
+❤ If you like Groceries, please consider leaving a review. That helps us a lot. Thanks!
+
+Groceries 3.0.1
+- Die Einkaufslistenauswahl zeigt nun die Anzahl noch fehlender Artikel.
+- Fehlerkorrekturen bei der Verwaltung von Abteilungen und neuen Produkten.
+
+Groceries 3.0
+- Die App liefert nun ein frisches, von Grund auf neu programmiertes, User Interface.
+- Optimierungen für das iPhone 5 und den iPod touch (5. Generation).
+- Eine neue ausgefeillte Produktvervollständigung mit automatischer Erkennung von Mengen und Einheiten.
+- Verbesserter Export- und Import von Einkaufslisten über Email.
+- Neue Sharing- und Druckoptionen.
+- Neue französische Lokalisierung.
+⚠ Einkäufe setzt nun iOS 6.0 oder neuer vorraus.
+❤ Wenn dir Einkäufe gefällt, dann bewerte es bitte bei jedem Update. Vielen Dank!
+
+Groceries 2.2.2
+- Fixed layout and crashing issues when activating the In-Call status bar
+
+Groceries 2.2
+- Fully compatible with iOS 4
+- Support for the Retina Display
+- Support for Multitasking and Fast App Switching
+
+Groceries 2.1.3
+- Picking a favorite or recent item now works correctly again
+
+Groceries 2.1.2
+- iPhone OS compatibility fixes
+
+Groceries 2.1.1
+- Fixed an issue where Mail did not open shopping lists in Groceries.
+- Fixed two layout and display glitches in the shopping list view.
+
+Groceries 2.1
+- You can now send Emails directly within Groceries.
+- Picking an item in the grocery search will now select the current search text. There's no longer the need to explicitly tap the clear button.
+- Creating new aisles is now more obvious.
+- Groceries now requires iPhone OS 3.1 or later.
+
+Groceries 2.0.5
+- The "new quantity" button is now always visible
+- Fixed minor issues and bugs
+- Fixed display glitches
+
+Groceries 2.0.4
+- Fixed an issue when importing shopping lists from email
+- Fixed a bug where the keyboard did not show up
+- Fixed minor display glitches
+
+Groceries 2.0.3
+- Shopping list mails now also display checked items
+- Fixed minor display issues in the shopping list mail
+- Fixed an issue where the History was not updated
+- Corrected grammar mistakes
+- Fixed iPhone OS 3.0 related issues
+
+Groceries 2.0.2
+- The shopping list collection now displays a remaining items badge
+- Custom aisles are now correctly saved in every case
+- Fixed a bug where the supermarket layout was not saved
+- The clear button in the grocery search is now easier to tap
+- Added two incredible grocery items: Bacon and Toilet Paper
+- Minor corrections
+
+Groceries 2.0.1
+- Fixed a critical bug when upgrading from Groceries Version 1.0
+- Lots of smaller fixes and refinements
+
+Groceries 2.0:
+- Share shopping list through email…
+- …and re-import directly from that email
+- Customizable aisles
+- Customizable units
+- Distinctive supermarket layouts for each list
+- Quickly start over by reseting or deleting purchased items
+- Shopping List organizer can now create new lists on the fly
+- Customizable shortcuts on double or triple tapping a shopping list item
+- Optional item remainder badge on the home screen icon
+- You can now turn off automatic aisle grouping
+- Quicker and easier user interface
